@@ -25,8 +25,9 @@ Las características disponibles en el conjunto de datos son las siguientes:
 El objetivo del proyecto es predecir la variable "Exited", que indica si el cliente ha dejado el banco (1 - sí; 0 - no).
 
 -----
+# Analysis of Customer Behavior and Churn Rate in Beta Bank by Carlos Horta (carlosgim@gmail.com)
 
-# Customer Retention Analysis in Beta Bank
+## Customer Retention Analysis in Beta Bank
 
 The objective of this project is to determine if a customer will leave the bank soon by analyzing their past behavior and contract terminations. The management has determined that retaining existing customers is more profitable than attracting new ones.
 
