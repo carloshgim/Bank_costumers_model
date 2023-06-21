@@ -24,3 +24,28 @@ Las características disponibles en el conjunto de datos son las siguientes:
 
 El objetivo del proyecto es predecir la variable "Exited", que indica si el cliente ha dejado el banco (1 - sí; 0 - no).
 
+-----
+
+# Customer Retention Analysis in Beta Bank
+
+The objective of this project is to determine if a customer will leave the bank soon by analyzing their past behavior and contract terminations. The management has determined that retaining existing customers is more profitable than attracting new ones.
+
+In this project, a model will be developed to identify the maximum possible value of F1 (with a minimum of 0.59), and this metric will be evaluated using the test set. Additionally, the AUC-ROC metric will be measured and compared with the F1 score.
+
+The available features in the dataset are as follows:
+
+- RowNumber: index of the data row.
+- CustomerId: unique customer identifier.
+- Surname: customer's surname.
+- CreditScore: customer's credit score.
+- Geography: customer's country of residence.
+- Gender: customer's gender.
+- Age: customer's age.
+- Tenure: duration of the customer's fixed-term deposit maturity (in years).
+- Balance: customer's account balance.
+- NumOfProducts: number of bank products used by the customer.
+- HasCrCard: indicates if the customer has a credit card (1 - yes; 0 - no).
+- IsActiveMember: indicates if the customer is an active member (1 - yes; 0 - no).
+- EstimatedSalary: estimated salary of the customer.
+
+The project aims to predict the "Exited" variable, indicating if the customer has left the bank (1 - yes; 0 - no).
